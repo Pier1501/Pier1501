@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Indenting code more than usual<br>📚 I'm currently learning Polars<br>🎯 Goals: create a Machine Learning from scratch course teaching math and ML</p>
+<p align="left">✨ Indenting code more than usual<br>📚 I'm currently learning OOP and getting better at ML<br>🎯 Goals: Making a good EDA and ML analysis </p>
 
 ###
 
