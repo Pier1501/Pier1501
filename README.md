@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- https://github.com/Pier1501 -->
+
+<h1 align="left">Hello World! 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Pierluigi and I'm a Data Scientist, from Italy. <br><br>I work with Python and its data analysis tools.</p>
+<p align="left">My name is Pierluigi and I'm a Data Scientist, from Italy. <br><br>I work with Python and more.</p>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Indenting code more than usual<br>📚 I'm currently learning OOP and getting better at ML<br>🎯 Goals: Making a good EDA and ML analysis </p>
+<p align="left">✨ Indenting code more than usual<br>📚 I'm currently learning OOP and getting better at ML</p>
 
 ###
 
@@ -76,13 +78,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="left">What am I doing right now?</h2>
 
-###
+<img src="https://badges.pufler.dev/repos/Pier1501"/>
+<img src="https://badges.pufler.dev/commits/monthly/Pier1501" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pier1501&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
