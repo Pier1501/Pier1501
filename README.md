@@ -6,9 +6,7 @@
 
 ## About Me
 
-<img src="https://badges.pufler.dev/repos/Pier1501"/> <img src="https://badges.pufler.dev/commits/monthly/Pier1501" />
-
-<p align="left">✨ Indenting code more than usual<br>📚 Currently learning OOP and getting better at ML</p>
+<p align="left">✨ Indenting code more than usual<br>📚 Currently learning Bash Scripting and getting better at Git</p>
 
 ## Tech Stack
 
