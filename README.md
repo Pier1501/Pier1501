@@ -2,7 +2,7 @@
 
 <h1 align="left">Hello World! 👋 What's up?</h1>
 
-<p align="left">My name is Pierluigi and I'm a Data Scientist from Italy. <br><br>I work with Python and more.</p>
+<p align="left">My name is Pierluigi and I'm an AI Programmer from Italy. I have a background in statistics and data analysis. <br><br>I work with Python and more.</p>
 
 ## About Me
 
